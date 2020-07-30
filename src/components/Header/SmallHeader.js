@@ -6,7 +6,7 @@ const LargeHeader = ({ title }) => {
     <IonHeader>
       <IonToolbar
         style={{
-          background: "#f0652f",
+          background: "#09ec82",
         }}
         color="primary"
       >
