@@ -6,7 +6,7 @@ const LargeHeader = ({ title }) => {
     <IonHeader collapse="condense">
       <IonToolbar
         style={{
-          background: "#09ec82",
+          background: "#f0652f",
         }}
         color="primary"
       >
